@@ -12,4 +12,6 @@ public class Triangle {
 		}
 
 	}
- }
+}
+
+/*c'est bon le pg fonctionne*/
